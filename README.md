@@ -1,16 +1,17 @@
 # Breast Cancer Prediction
-Objective:
+<h2>Objective:</h2>
 The repository is a learning exercise to:
 
 Apply the fundamental concepts of machine learning from an available dataset
 Evaluate and interpret my results and justify my interpretation based on observed data set
 Create notebooks that serve as computational records and document my thought process.
 The analysis is divided into four sections, saved in juypter notebooks in this repository
-
-Identifying the problem and Data Sources
-Exploratory Data Analysis
-Pre-Processing the Data
-Build model to predict whether breast cell tissue is malignant or Benign
+<ul>
+<li>Identifying the problem and Data Sources</li>
+<li>Exploratory Data Analysis</li>
+<li>Pre-Processing the Data</li>
+<li>Build model to predict whether breast cell tissue is malignant or Benign</li>
+  </ul>
 Notebook 1: Identifying the problem and Getting data.
 Notebook goal:Identify the types of information contained in our data set In this notebook I used Python modules to import external data sets for the purpose of getting to know/familiarize myself with the data to get a good grasp of the data and think about how to handle the data in different ways. 
 
