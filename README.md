@@ -22,9 +22,11 @@ Notebook goal:  Explore the variables to assess how they relate to the response 
 <h2>Notebook 3 Pre-Processing the data</h2>
 Notebook goal:Find the most predictive features of the data and filter it so it will enhance the predictive power of the analytics model. In this notebook I use feature selection to reduce high-dimension data, feature extraction and transformation for dimensionality reduction. This is essential in preparing the data before predictive models are developed.
 
-Notebook 4 Predictive model using Support Vector Machine (svm)
+<h2>Notebook 4 Predictive model using Support Vector Machine (svm)</h2>
 Notebook goal: Construct predictive models to predict the diagnosis of a breast tumor. In this notebook, I construct a predictive model using SVM machine learning algorithm to predict the diagnosis of a breast tumor. The diagnosis of a breast tumor is a binary variable (benign or malignant). I also evaluate the model using confusion matrix the receiver operating curves (ROC), which are essential in assessing and interpreting the fitted model.
 
-Notebook 5: Optimizing the Support Vector Classifier
+<h2>Notebook 5: Optimizing the Support Vector Classifier</h2>
 Notebook goal: Construct predictive models to predict the diagnosis of a breast tumor. In this notebook, I aim to tune parameters of the SVM Classification model using scikit-learn.
+
+
 ![6653508 fig 001](https://user-images.githubusercontent.com/92047366/232545058-914936f8-7e29-444f-8162-5dcaf93827ca.jpg)
