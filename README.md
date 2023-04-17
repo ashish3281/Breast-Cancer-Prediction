@@ -12,13 +12,14 @@ The analysis is divided into four sections, saved in juypter notebooks in this r
 <li>Pre-Processing the Data</li>
 <li>Build model to predict whether breast cell tissue is malignant or Benign</li>
   </ul>
-Notebook 1: Identifying the problem and Getting data.
+  
+<h2>Notebook 1: Identifying the problem and Getting data.</h2>
 Notebook goal:Identify the types of information contained in our data set In this notebook I used Python modules to import external data sets for the purpose of getting to know/familiarize myself with the data to get a good grasp of the data and think about how to handle the data in different ways. 
 
-Notebook 2 Exploratory Data Analysis
+<h2>Notebook 2 Exploratory Data Analysis</h2>
 Notebook goal:  Explore the variables to assess how they relate to the response variable In this notebook, I am getting familiar with the data using data exploration and visualization techniques using python libraries (Pandas, matplotlib, seaborn. Familiarity with the data is important which will provide useful knowledge for data pre-processing)
 
-Notebook 3 Pre-Processing the data
+<h2>Notebook 3 Pre-Processing the data</h2>
 Notebook goal:Find the most predictive features of the data and filter it so it will enhance the predictive power of the analytics model. In this notebook I use feature selection to reduce high-dimension data, feature extraction and transformation for dimensionality reduction. This is essential in preparing the data before predictive models are developed.
 
 Notebook 4 Predictive model using Support Vector Machine (svm)
